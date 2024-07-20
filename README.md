@@ -1,4 +1,4 @@
-# Koneksi Sanic Python Dengan Mysql
+<b>Koneksi Sanic Python Dengan Mysql</b>
 
 <p>Sangat di sarankan untuk mendownload melalui git bash dengan mengetikan</p> 
 <li>$ git clone https://github.com/diditgravatar/sanic-mysql.git</li>
