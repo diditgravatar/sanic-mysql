@@ -4,9 +4,11 @@
 <li>$ git clone https://github.com/diditgravatar/sanic-mysql.git</li>
 
 # Menjalankan aplikasi
-Buka folder yang anda download di VS Code di sarankan , kemudian ketikan pada keyboard Ctrl+~ untuk mejalankan Command Line pada VS Code.
-Dan selanjutnya jalankan python evironment , dengan mengetikan pada command line C:/your_folder/sanic-mysql/>Env\Scripts\activate.bat.
-jika muncul seperti ini C:/your_folder/sanic-mysql/>python.exe app.py
+<li>Buka folder yang anda download di VS Code di sarankan , kemudian ketikan pada keyboard Ctrl+~ </li>
+<li>untuk mejalankan Command Line pada VS Code.</li>
+<li></li>Dan selanjutnya jalankan python evironment , dengan mengetikan pada command line</li>
+<li></li>C:/your_folder/sanic-mysql/>Env\Scripts\activate.bat.
+jika muncul seperti ini C:/your_folder/sanic-mysql/>python.exe app.py</li>
 
 # Apa itu Sanic?
 Sanic adalah framework web untuk Python yang dirancang untuk membuat aplikasi web dengan performa tinggi. Dengan Sanic, Anda dapat membuat aplikasi web dan API yang cepat dan efisien. Beberapa fitur utama dari Sanic adalah:
